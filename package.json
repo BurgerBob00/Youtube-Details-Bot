@@ -1,0 +1,8 @@
+{
+  "name": "Garden Eden",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "dependencies": {
+    "youtube-node": "^1.3.2"
+  }
+}
